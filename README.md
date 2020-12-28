@@ -9,6 +9,10 @@
 
 **Run example:**
 
-```shell script
+```shell
 ./dasm src/cleanmem/cleanmem.asm -f3 -v0 -oout/cleanmem.bin
+```
+
+```shell
+../../dasm background.asm -f3 -v0 -o../../out/background.bin -l../../out/background.lst -s../../out/background.sym
 ```
